@@ -1,0 +1,13 @@
+title: River is…
+-
+team: with ART+COM
+-
+date: 2012-2013
+-
+keywords: art installation, robotics
+-
+exposure:
+-
+content: 
+
+Located in a pavillion in Gwangju, South Korea, "River is" is a site specific artwork, and is based on the principle of caustics, the way light refracts on water. A chrome-plated surface with complex wavy facet structures depicts a frozen moment in time of the continuous flowing Yeong San River where the pavilion is situated nearby. Computationally designed and 3D-milled, the 23 square meters abstract wave sculpture carries hidden Korean characters encoded in its facets. These characters become legible with the help of light that is reflected by the wavy mirror forming different words on the wall. Above the mirror sculpture there are two light sources gently moving by themselves, creating a constant play of light spelling out two words: “River is…”. Viewers can use a hand-held flashlight to discover the hidden meanings encoded in the reflections to complete the sentence. The river reveals its significances only through interaction and reflection, thus becomes a contemplative moment within the exhibition. 

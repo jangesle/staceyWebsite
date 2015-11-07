@@ -1,0 +1,24 @@
+title: RGB|CMY Kinetic
+-
+team: with ART+COM
+-
+date: 2015
+-
+keywords: art installation, robotics
+-
+exposure:
+-
+content: 
+
+RGB|CMY Kinetic is an audio visual-mechatronic installation. The inspiration for the work stems from the nature of light, particularly from the duality of additive and substractive colours in the way we perceive form. A white circle of light and the surrounding darkness serve as a canvas for a kinetic choreography, where an array of floating mechanical objects simultaneously cast shadows and reflect light.
+
+Merging industrial motor assembly and software control with highly aesthetic choreographed movement, the enabling technology and artistic expression are in an inseparable dialogue. Designed for a large space, the 5 relatively small elements moving in space animate the whole environment with their reflections and shadows from red, green and blue spotlight casting a single white circle on the floor. Small and gentle gestures are multiplied to a spatial experience, where no light is wasted, as the areas that are cast as shadows on the lit circle render the substractive primary colours, cyan, magenta and yellow, are reflected as the red, green and blue additive components on the dark background.
+
+The artwork is a highly collaborative effort, where precision control of industrial machinery is enabling an aesthetic visual choreography. This dialogue extends to the intimately connected musical composition with sound artist Ólafur Arnalds. The motion paths of the suspended elements are used directly as a signal to drive the sound generation making the movement an inseparable part of the musical composition.
+
+Light, movement, sound and materiality all carry an equal responsibility and meaning in the experience of the artwork.
+
+
+Long exposure image: Flavio Coddou 
+Other photos: ©Sonar Festival
+Rendering: ART+COM

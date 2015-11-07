@@ -1,0 +1,14 @@
+title: The Science of Aliens
+-
+team: with ART+COM
+-
+date: 2005
+-
+content: 
+Our imagination of Aliens and what they might really look like, is the theme of the exhibition “The Science of Aliens“. The touring exhibition had its premiere at the London Science Museum in October 2005 and has been shown in Science Museums in North America, Europe and Asia since then.
+
+ART+COM created an interactive room for the exhibition where visitors can get in direct touch with aliens. The creatures living on the planets, “Aurelia“ and “Blue Moon“, move dynamically through virtual landscapes. They are generated in real time. Visitors interact with the two worlds via a touchsensitive surface of two meters width and about seven meters length. To decipher the internal state of the creatures, a caricature information design layer is drawn around them. Through a touch sensitive interface the visitors can learn more in detail about the details of the life forms on the planets.
+-
+keywords: multi-user, simulation, artificial life
+-
+exposure:

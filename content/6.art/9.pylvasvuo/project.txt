@@ -1,0 +1,21 @@
+title: Pylväsvuo
+-
+date: 2015
+-
+webvideo: //player.vimeo.com/video/139133633
+-
+team: together with <a href=“http://jaakkomattila.fi">Jaakko Mattila</a>
+-
+content: 
+Pylväsvuo is a site specific artwork in the village of Pylväs in Northern Finland. A series of interventions that leverage the cultural meaning of locations along the Ängeslevä road, and are an inseparable part of the villages history. Using polarizing filters and wave plates, the intervention create mirage-like graphics in the landscape that appear and disappear in response to the viewer’s movement. 
+
+The five part work was commissioned by the Finnish Cultural Foundation and is a gift to the city of Ylivieska, commemmorating the 75th anniversary of the Foundation’s establishment.
+
+<a href=“http://pylvasvuo.fi”>Pylvasvuo</a>
+-
+keywords: art installation, land art
+-
+exposure: 
+
+
+

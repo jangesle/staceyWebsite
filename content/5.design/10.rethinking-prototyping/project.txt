@@ -1,0 +1,27 @@
+title: Rethinking Prototyping
+-
+webvideo: //player.vimeo.com/video/138753130
+-
+date: 2012-2015
+-
+team: the Berlin University of the Arts, Technical University Berlin 
+-
+content: 
+
+Rethinking prototyping was a 3 year long research effort investigating the role of prototyping in design and research. Set up as a cluster of 3 different research projects consisting of transdisciplinary teams from the Berlin University of the Arts and the Technical University Berlin the project cast a wide-angle look on how the manifestation of the thinking in prototypes serve in communication, forming research questions and embodying the results. 
+
+My part, “Beyond Prototyping”, is a research undertaking exploring the possibilities of algorithmically defined products that can be easily manufactured using digital fabrication techniques. Using interdisciplinary teaching between two universities and collaborations with small commercial studios as well as a series of product-service systems to evaluate the feasibility and appeal of such products, beyond prototyping proposes a vision of service model that sits between atelier and mass production. 
+Three case studies, “Locatable”, “Ciphering” and “Highlight”, that are implemented as web and material services chronicle the challenges and opportunities of such products. To evaluate their success, the services are offered to the public, who are subsequently sent surveys to reflect on the products. The cases show that such products have potential to complement the current market with new business models.
+
+have a look at the resulting services at:
+
+<a href=“http://ciphering.me”>Ciphering</a>
+
+<a href=“http://locatable.me”>Locatable</a>
+
+<a href=“http://highlight.digital.udk-berlin.de”>Highlight</a>
+
+-
+keywords: digital fabrication, algorithmic design, research
+-
+exposure: 

@@ -1,0 +1,64 @@
+title: Last Clock
+-
+webvideo: //player.vimeo.com/video/21553632
+-
+date: 2002 -
+-
+team: together with Ross Cooper
+-
+content: 
+'Last' is like a familiar analogue clock, it has second hand, a minute hand and an hour hand. The hands are arranged as concentric circles, the outermost being seconds, the middle one minutes, and the innermost hours.
+The major difference to a regular clock is that the hands of last are made from live video feed and as they rotate round the face of the clock they leave a trace of what has been happening in front of the camera.
+Thus, the clock face displays the last minute, last hour and last 12 hours as it's history.
+The video feed can be any live video source: A camera mounted on the clock itself looking at what is happening in front of it, a remote camera streamed over the internet or TV signal fed directly to the clock. The clock can thus display the local space, remote space or media space respectively.
+As a clock, the emerging imagery becomes contextualised and makes it meaningful in the space it is being displayed at. As an installation, the system can be used as a living, aesthetic element reacting to the usage of the space.
+-
+keywords: Royal College of Art, installation, interactive
+-
+exposure: 
+
+<b>EXHIBITIONS</b>
+
+Siggraph '04 Emerging Technologies, Los Angesles, 2004
+
+Unpacked RCA 2002 Design Highlights, Gifu Prefecture Takumi Studio, Gifu, Japan, 2002
+
+Transmediale, Berlin, Germany, 2003
+
+Collision 5, Collision collective / Boston Cyberarts, Boston, USA, 2003
+
+Exhibit 1, Digital Hub, Dublin, Ireland, 2003
+
+PixelAche, Kiasma Museum of Contemporary Art, Helsinki, Finland / Montreal, Canada, 2003
+
+Pixxelpoint 2003 - The Pixel City, Fourth Edition, Kulturni dom Nova Gorica, Nova Gorica, Slovenia, 2003
+
+Virtaa, Cartes Art, Espoo, Finland, 2004
+
+YOU ARE HERE - The design of information, Design Museum, London, UK, 2005
+
+World Without End, Australian Centre for the Moving Image, Melbourne, Australia, 2005
+
+ARCO'06, MediaLabMadrid, Centro Cultural del Conde Duque, Madrid, Spain, 2006
+
+Silent*Observers - visual observations & streaming media practices, Multimedia Institute & UCSD/CRCA, San Diego, USA, 2007
+
+Digital Art & Technology, Singapore Science Center, Singapore, 2007
+
+<b>AWARDS</b>
+
+The Lattice Group Awards 2002: Building on Inheritance, The Lattice Group & Royal College of Art, London, UK, 2002
+
+Jury Recommendation, 7th Japan Media Arts Awards, Japan Media Arts, Tokyo, Japan, 2003
+
+Gold award, ADCE 2003, The Art Directors Club of Europe, London, UK, 2003
+
+2 Silver Awards, D&AD Awards, Design And Art Direction, London, UK, 2003
+
+Honorary Mention, Prix Ars Electronica, Ars Electronica, Linz, Austria, 2003
+
+BAFTA Interactive Arts Nomination, The British Academy of Film and Television Arts, London, UK, 2004
+
+<B>PUBLICATIONS</B>
+
+Ängeslevä, J., Cooper, R. "Last Clock", IEEE Computer Graphics and Applications, 2005 (Vol. 25, No. 1)

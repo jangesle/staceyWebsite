@@ -1,0 +1,31 @@
+title: Glassbox
+-
+webvideo: //player.vimeo.com/video/21558388
+-
+date: 2002
+-
+team: Royal College of Art, Manchester University
+-
+keywords: exhibition design, embodied interaction
+-
+content:
+<i>The ‘Yde Girl’ had been discovered on 12 May 1897 by two men cutting peat at the small village of Yde in the municpaility of Vries, a few kilometres from the northern Dutch town of Assen. They were so terrified at their discovery that they ran away, believing her body to be the work of the devil. Later in the day they returned, but onloy to hide the corpse under some turvews. There she was found by the mayor of Vries nine days later. He noticed that the right side of her head was damaged and that while th hair on the left side of her scalp was reddish(presumably the effect of the peat), the right half was ‘shaven’.</i>
+
+"Glassbox" is a museum technology concept, aiming to bring the artefacts and specimen more alive, "opening the glass box". With using century old technology "pepper's ghost" (blending spaces with half-silvered mirror), it gives the user a seeming access to the protected object.
+
+In the case of the "Yde Girl", a polystyrelene milled skull reconstruction and a plaster cast of the clay modelled facial reconstruction were merged together (courtesy of Richard Neave, Manchester University).
+
+The interaction is very simple and embodied, giving the user an extremely intuitive way of exploring the contents of the exhibit.
+
+The glass box, traditionally providing protection to the museum objects, separating them from the visitor space, becomes an active part of the interface (yet remaining invisible), maintaining the familiar aesthetic, but letting the viewers to see even further into the exhibits.
+
+The system's principal uses are in contextualising information in different levels. In order to compare two different layers of information, be it temporal, spatial or structural, one can "cut" a little piece of one layer and paste it into the context of the other. This way the content can be always seen in a meaningful reference frame, rather than in a void. For example, in architectural exhibits, looking at the changing urban landscape over time, "displace" can reveal what the changes really mean in local context. Rather than having either the past or the present, the spaces can be blend into one, and the user can explore how specific locations have transformed.
+-
+exposure:
+
+<b>AWARDS</b>
+
+NESTA Future Product Award, NESTA & Science Museum, London, UK, 2002 
+
+
+

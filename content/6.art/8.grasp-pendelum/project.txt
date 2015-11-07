@@ -1,0 +1,22 @@
+title: Grasp Pendulum
+-
+webvideo: //player.vimeo.com/video/39258803
+-
+team: with ART+COM
+-
+url: http://artcom.de/en/project/grasp-pendulum
+-
+date: 2010
+-
+keywords: concept design, art installation, robotics, ART+COM
+-
+exposure:
+-
+content: 
+Berlin’s Technology Center Medical Science presents a permanent exhibition about the human body and the complexity of its motion. A central feature of the exhibition is a gigantic kinetic sculpture titled Grasp Pendulum, an attraction clearly visible through the glass façade of the building, connecting the exhibition inside with public space beyond it.
+
+The theme the sculpture explores is that of manual grasping, an act whose complexity we are generally unaware of while going about our daily lives. The installation focuses on three different types of grip: the spherical grip for grasping and holding round objects; the hooked grip that angles the hand, enabling us to hold long, narrow objects, and the cylindrical grip with which we hold objects of cylindrical shape. The eight-meter tall installation is composed of double-sided monitor arrays attached to three metal rods. In movement, the three rods swing around a central axis like a pendulum, a process during which the monitors partially overlap.  
+
+Technically, the kinetic sculpture is based on real-time control of the motors. The system registers the virtual hand movements on the screens and directly transposes these into real movements, precisely synchronizing the image and the swinging of the pendulum. This principle also enables direct visitor engagement.   A  light box interface facilitates two modes of interaction: A live silhouette of the visitor’s hand is relayed onto one of the screens. Suddenly, the shadow freezes, and the focus shifts to the next display. All the screens are sequentially filled with the visitors’s expressive hand gestures. Once complete, by wiping their hands across the interface, visitors can influence the movement of the pendulum. The image of their moving hands is again directly reflected in the movement of the sculpture.
+
+The Grasp Pendulum is a kinetic sculpture combining virtual and real movements to a palpable dialogue where the visitor can also take part in.

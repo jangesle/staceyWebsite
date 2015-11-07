@@ -1,0 +1,91 @@
+title: Calendar 
+-
+content:
+
+2015-09-29	<a href=“http://lightfest.ru/en/about/“>Circle of Light festival</a>, Moscow, Russia.
+
+2015-09-09	<a href=“http://tietonakyvaksi.fi/jussi-angesleva/“>Tieto Näkyväksi</a> conference in Helsinki, Finland.
+ 
+2014-12-01	<a href=“http://nodem.org/nodem-2014/keynote-speakers/>Meaning in the making</a> at NODEM’14, in Warsaw, Poland.
+
+2014-06-12	<a href=“http://sonar.es/en/2014/prg/sm/creative-technologies-caf%C3%A9_195>Creative Technologies Cafe at Sonar</a>, Barcelona. 
+
+2014-04-04	Lecture: Aura of the digital at <a href="http://resonate.io/2014">Resonate</a> Belgrade, Serbia.
+
+2014-03-21	Lecture at Interactive Creation Camp, Tokyo, Japan.
+
+2014-02-01	Lecture: Aura of the digitally manufactured at <a href="http://www.rhizomatiks.com/event/superflyingtokyo/">Super Flying Tokyo"</a>, Tokyo, Japan.
+
+2013-11-12	Talk at Future of Museum Technology and Participation, Museum Associatoins conference, Liverpool, UK.
+
+…
+
+2012-11-07	Embodiment in spatial communication at <a href="http://aigany.org/events/design-hardware-embodiment-in-spatial-communication/">AIGA</a>, New York, USA.
+
+2012-10-18	Lecture about Exhibition in the cloud at <a href="http://rauchwolkenundluftschloesser.de/symposium/de">Rauchvolken und Luftschlösser</a> Symposium, Bremen, Germany.
+
+2012-10-04	Hybrid Worlds: Kinetics, Robotics and Interaction – Design between Technology and Aesthetics, <a href="http://www.bauhaus.de/">Bauhaus Archiv</a>, Berlin, Germany.
+
+2012-30-09	Keynote lecture at <a href="http://www.amaze-festival.de/">"Amaze Festival"</a>, Johannesburg, South Africa.
+
+2012-07-18	Opening of the Kinetic Rain artwork at Changi Airport, Singapore.
+
+2012-06-12	Permanent installation of the Last Clock at <a href="http://www.aec.at/zeitraum/lastclock.html"> Zeitraum</a> in Vienna Airport.
+
+2012-05-11	<a href="http://raum-welten.com/wp/#referenten">Raumwelten</a>, Stuttgart, Germany.
+
+2012-03-02	Media Design Talk, Hongik University, Seoul, Korea.
+
+2012-02-20	Student Design Challenge Chairing, TEI 2012, Kingston, Canada.
+
+2012-02-03	Renaissance of Space, Microsoft Research Asia, Beijing, China.
+
+2012-01-12	Renaissance of Space, International Design Conference - Research in graphic design, graphic design in research, Katowice, Poland.
+
+2011-11-03	Communicating Prototype, Hybrid Talks, Universität der Künste Berlin. 
+
+2011-10-25	<a href="http://www.2011idacongress.com/english/tdc_eventsview.asp?PageCode=TD1B&PageSession=2&PageKey=2&EventNo=TD22-186"> Keynote at International Design Alliance Congress</a>, Taipei.
+
+2011-09-21	Medien im Raum symposium, Always On Festival, Berlin.
+
+2011-09-15	Talk at Aalto University, Taivex Senior manager 2, Arkadiankatu 28 A, Helsinki.
+
+2011-08-23 	Media Design, Lasalle, Singapore.
+
+2011-08-03	ART+COM –Media Installations and Spaces Book launch. Ars Electronica, Linz.
+
+2011-06-10	AR Interface Design Symposium, Hongik University, Seoul, Korea
+
+2011-06-08	Design talk, Yonsei University, Wonju, Korea
+
+2011-04-11	Media Design in Exhibitions, MRes Information Environments, London College of Communication, UK
+
+2011-03-02	Helsinki, PixelAche 2011 - Lecture on Computational Photography
+
+2011-02-23	Tangible, Embedded and Embodied interaction Conference - Graduate Student Consortium, Funchal, Madeira 
+
+2010-03-23	The Impact of Design / Higher Colleges of Technology, Al Ain, United Arab Emirates
+
+2009-06-17	Digital Thinking / Tama Art University , Tokyo, Japan, 
+
+2009-06		Interactive Playground Design / Hongik University , Seoul, Korea
+
+2008-10-06	uDesign / Universidad de Monterrey , Monterrey, Mexico, 
+
+2007-09-21	Third eye / Centre Pompidou , Paris, France, 
+
+2007-03-09	Empowerment - Media in mass events / Tongji University International Media Art Center , Shanghai, China
+
+2005-12-28	22nd Chaos Communication Congress / Chaos Computer Club , Berliner Congress Center, Berlin, Germany
+
+2004-04-07	Embodiment in interaction design / Rhode Island School of Design , Rhode Island
+
+2004-03-02	My Work / ATR Media Information Science Laboratories , Kyoto, Japan
+
+2003-10-23	e-Culture Fair / Virtueel Platform , Amsterdam, Netherlands
+
+2003		Things That Think consortium / MIT Media Lab , Boston, USA
+
+2003 		Doors East 2 / Doors of Perception , Bangalore, India
+
+…

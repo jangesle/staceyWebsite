@@ -1,0 +1,19 @@
+title: Evolutionary Stairs
+-
+webvideo: //player.vimeo.com/video/109799552
+-
+team: with ART+COM
+-
+date: 2014
+-
+keywords: exhibition
+-
+exposure:
+-
+content: 
+
+At the new Moesgaard Museum visitors literally come face-to-face with the ancestors of the human race. The museum accommodates archaeological and ethnographic exhibitions, special exhibitions, an auditorium, conference rooms and other visitor facilities. The combination of science with new ways of displaying the artefacts and the use of technology is characteristic for the exhibitions of the new museum. The archaeological exhibitions display the lives of the species of the past through the use of narratives and settings with light, sounds and animations.
+
+In collaboration with Moesgaard Museum Design Studio, ART+COM Studios developed the installation Evolutionary Stairs with seven digital dioramas for the permanent exhibition. A unique collection of anatomically precise reconstructions of human species greets visitors already on the staircase in the museum foyer. The figures can be experienced up close or through ‘binoculars’. Looking through the binoculars at the Homo sapiens or another human species reconstructed by the artists Kennis & Kennis, one sees a digital diorama of the lifelike figures in their indigenous settings. The viewer feels as though they are inside the landscape, circling the figures.
+
+In order to achieve this effect, each environment was built in 3D and a virtual tracking shot was designed. The data of the virtual flight was used to film the physical reconstructions with a motion control system that followed the exact perspective of the virtual camera. Thus a seamless integration of the figure into the 3D environment was achieved. As a result, the viewer gets a rich impression of the habitats while the figures keep their strong physical presence.

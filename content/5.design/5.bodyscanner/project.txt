@@ -1,0 +1,26 @@
+title: Bodyscanner
+-
+webvideo: //player.vimeo.com/video/21555340
+-
+date: 2001
+-
+team: Royal College of Art
+-
+content: 
+Body Scanner is an attempt to make abstract medical data more meaningful to a non-expert user. It uses body-awareness to intuitively map the content to an understandable frame of reference. Instead of abstraction and rationalisation, the user can access the content directly through bridging their own posture to the displayed imagery.
+
+Follwoing the ideas of constructionism and situational interaction, the piece is to merge these two worlds, virtual and real, to an intuitively meaningful whole. Something that explains itself without having to read the manuals, that is based on our everyday life knowledge on our environment and ourselves.
+
+For the informational content I decided to use the database created by the National Library of Medicine called Visible Human. It consists of 3 dimensional photograph quality image data of the whole human body viewable normally in cross-sections. The imagery is rather non-informative, when drawn out of context but when bridged to one's own body, make perfect sense.
+
+To access the images, one has to move a steel hoop up and down around his/her body. The plane defined by the hoop selects the corresponding cross-section of the database. Sex is chosen with a foot switch.
+
+
+-
+keywords: embodied interaction
+-
+exposure:
+
+<B>EXHIBITIONS</B>
+
+<A HREF="http://www.nlm.nih.gov/exhibition/dreamanatomy/da_visible_vishum.html">Dream Anatomy</A>, National Library of Health, Maryland, USA, 2002 - 2003 

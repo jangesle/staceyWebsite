@@ -1,0 +1,15 @@
+title: Kinetic Sculpture
+-
+webvideo://player.vimeo.com/video/8554267
+-
+team: with ART+COM
+-
+date: 2008
+-
+keywords: art installation, robotics
+-
+exposure:
+-
+content: 
+The "Kinetic Sculpture" metaphorically translates into space the form-finding process of vehicle design. The interplay of mechanical and electronic components creates a dynamic art piece reflecting the precise exchange between a great number of individual elements and the single, coherent picture that emerges from them. 
+Attached by thin steel wires to individually-controlled stepper motors, 714 metal spheres move up and down, seemingly levitating.

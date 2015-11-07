@@ -1,0 +1,15 @@
+name: Jussi Ängeslevä
+-
+profession: Media Art & Design
+-
+email: 
+<jussi.angesleva@iki.fi>
+-
+address:
+Warschauer Strasse 60,
+10243 Berlin,
+Germany
+
++49 30 21001460
+-
+twitter:jangesle

@@ -1,0 +1,32 @@
+title: Urban Eyes
+-
+webvideo: //player.vimeo.com/video/21560023
+-
+date: 2001
+-
+team: together with Marcus Kirsch
+-
+keywords: critical design
+-
+content: 
+
+A cross-media project Urban Eyes is a networked urban space installation and critical design concept. It aims to provide an alternative view on the city, using pigeons as the messengers of camera and other imagery overlooking the main streets and back alleys as their eyes.
+
+With the help of modern technology, Urban Eyes introduces a new agent to the layered data networks of any large scale cityplex, the living biomass and behaviour patterns of the city pigeon or rock dove (Columba livia). Born from the psychogeographic notions of Bill Drummonds map based concepts and a spoonful of sousveillance movement, Urban Eyes twists the panoptic atmosphere, asks what we know about modern security technology like RFID and connects us back to a very alive in the form of the animals, yet dead practice of shamanism in urban architectural "ruled" space.
+
+The original concept was developed at the Royal College of Art in 2001. A subsequent artist residency at V2 (made possible by support of Datamars S.A., Sokymat, Motz-Computer, Arts Council England and V2_Lab), evolved the original concept to a more tangible encounter with the birds. A custom built feeding station would detect the proximity of RFID tagged pigeons, and transmit the CCTV imagery to bluetooth devices near by.
+
+-
+exposure:
+
+<b>AWARD</b>
+
+3rd place at Fusedspace, Stroom / Skor / Premsela / The InformationWorkPlace, Amsterdam, Netherlands, 2004 
+
+<b> RESIDENCY </b>
+
+Residency together with Marcus Kirsch, V2_lab, Rotterdam, Holland, 2005
+
+<b> GRANT </b>
+
+Artist Grant, Arts Council England, London, UK, 2005

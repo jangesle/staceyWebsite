@@ -1,0 +1,17 @@
+title: Meteocolonnade
+-
+team: with ART+COM
+-
+keywords: information sculpture, public space, generative
+-
+date: 2010
+-
+content: 
+Widely visible by day and at night, the four LED columns inform skippers and visitors of the harbour Bregenz about the Lake Constance’s current conditions: Water level, water temperature, air temperature and wind speed and direction. These data must be shown at harbours for security reasons but are commonly written on blackboards or standard screens. When rebuilding the complete port area the regional government decided to look for a more sophisticated level display coming up to the new information’s centres clear-lined architecture.
+
+Inside the undulated centre the three metres high LED pillars present the measurement results transferred every five minutes from different lake stations and processed in real-time. Each column is designed with individual personality, reflecting the information it is communicating. The water level column, for example, ripples like the lake’s surface. In addition to the real time data, the installation occasionally presents historical information to provide context to the current readings. Short animations show the record flood marks, the development of water quality and annual averages.
+
+The luminous information is shown both sides and provides a good legibility even over a greater distance. At night its long-distance signal effect reaches even further, forming a reference point for the whole harbour area.-
+keywords: art installation, sculpture
+-
+exposure:

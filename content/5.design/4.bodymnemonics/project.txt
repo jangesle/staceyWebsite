@@ -1,0 +1,31 @@
+title: Body Mnemonics
+-
+webvideo: //player.vimeo.com/video/34811798
+-
+date: 2001-2004
+-
+team: Royal College of Art - Media Lab Europe
+-
+content: 
+Body Mnemonics is an interface design concept for portable devices that uses the body space of the user as an interface. In this system information can be stored and subsequently accessed by moving a device to different locations around one’s body. The system is designed to ease cognitive load by relying on our proprioceptive sense, vibrotactile feedback, and the use of the body image of the user as a mnemonic frame of reference. Feedback from interviews conducted while developing this system suggests that the body view is a very personal artefact and that it is rich in meaning. It therefore has the potential to serve as a powerful memory aid.
+
+
+
+-
+keywords: embodied interaction
+-
+exposure:
+
+PUBLICATIONS:
+
+Ängeslevä, J. (2008) "Bodies, Mnemonics and Machines". In Tangibility of the Digital. form+zweck , Berlin, Germany
+
+Ängeslevä, J. (2005) "Body Mnemonics- interface design proposal for portable devices". In The Integrated Media Machine, Vol. 3-4. / University of Lapland , Rovaniemi, Finland.
+
+Oakley, I., Angesleva, J., Hughes, S. & O'Modhrain, S., (2004) "Tilt and Feel: Scrolling with Vibrotactile Display" in the proceedings of the EuroHaptics'04, Munich, Germany
+
+Strachan, S, Murray-Smith, R, Oakley, I and Angesleva, J. (2004) "Dynamic primitives for gestural interaction". In Mobile Human-computer Interaction - Mobilehci 2004, Proceedings, 3160 . pp. 325-330.
+
+Angesleva, J., Oakley, I., Hughes, S. & O'Modhrain, S. , (2003) "Body Mnemonics: Portable device interaction design concept" in proceedings of UIST'03, Vancouver, Canada
+
+Ängeslevä, J., O’Modhrain, S., Oakley, I., & Hughes, S., (2003) "Body Mnemonics" in proceedings of Physical Interaction (PI03) - Workshop on Real World User Interfaces, a workshop at the Mobile HCI Conference 2003, Udine, Italy.

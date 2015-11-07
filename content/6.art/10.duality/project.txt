@@ -1,0 +1,18 @@
+title: Duality
+-
+date: 2007
+-
+team: with ART+COM
+-
+exposure:
+-
+content: 
+Duality was created for a new development site in the center of Tokyo. Compared to the traditional “art in public space sculptures” the goal was to design an interactive installation that responds to its location in terms of the content and physically to the passers by.
+
+The boundary between a walkway and an adjacent artificial pond was chosen as the location for the work. This interface between “liquid” (water) and “solid” (land) was thematically used and augmented by the question of “real” (water ripples) and “virtual” (artificial light waves).
+
+On the walkway, a 4 x 4 meter white monochrome LED plane was installed and covered with a sand-blasted, opalescent glass. The glass tiles are equipped with load cells measuring the exact position and power of each footstep, triggering corresponding virtual waves on the LED plane. When these virtual waves reach the pond’s border, they extend into the water by precisely controlled mechanical actuators.
+
+The perceivable reaction in the environment creates different sense of identification with the surroundings.
+-
+keywords: art installation, robotics

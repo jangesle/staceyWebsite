@@ -1,0 +1,26 @@
+title: Algorithmic Topiary
+-
+webvideo: //player.vimeo.com/video/21557086
+-
+date: 2005
+-
+team: together with Amanda Parkes
+-
+keywords: thermochromics, intervention
+-
+content: 
+
+A joint project with Amanda Parkes looking at different ways to augment in the physical space an mobile walking tour "History Unwired". The resulting work uses thermochromic ink as a daylight proof slow display mechanism. 
+
+Algorithmic topiary is a site specific art installation binding to a mobile audio tour in Venice. Using a GPS enabled device and custom software, local characters explain different details and story fragments related to the city. When approaching an old abandoned greenhouse close to the entrance of the Biennale gardens, Dario, the narrator, describes how the greenhouse used to be full of life and acts as a metaphor for Venice, which to tourists appears to be in decay. Simultaneously, a Bluetooth signal triggers a slow animation loop via thermochromic panels on the facade. 
+The installation comprises 3 different resolution images. Firstly, the panels themselves define an outline of an abstracted plant mapped to the window grid, very low resolution black squares. Secondly, the gradually changing individual tiles refine the pixelated form to a higher resolution outline of the plant form, and on close up view, the completed change reveals a high resolution computational design pattern in full colour of the underlying organic form. 
+
+The pattern was created by using an algorithm which programmed ‘vines‘ to grow within a defined frame for the tree, thus creating a compuational topiary. Heat-wire was spread in and around the outline of the form and then covered with a surface which had been silkscreened with black pigment.
+
+The project was organised by the architecture departments of the Universities of Venice and MIT. And ran in conjunction with the Venice Biennale 2005 and the Venice Film Festival 2005.
+-
+exposure:
+
+<b>EXHIBITIONS</b>
+
+<a href="http://web.mit.edu/frontiers/"> History Unwired Mobile Experimenters </a>, University of Architecture Venice & the MIT Dept. of Urban Studies, Venice, Italy, 2005

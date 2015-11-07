@@ -1,0 +1,20 @@
+title: Exposure
+-
+date: 2007
+-
+team: together with <a href="http://www.rt80.net/">Richard The</a>
+-
+content: 
+Exposure is a spatial art installation combining fluorescent ink, electronics and poster design to weave micro narratives for the unsuspecting public as they navigate through the dark alleys. The work comments on the effects the proliferation of social software has on us. The on-line self-presentation being an idealisation of the reality, and only existing through the aid of the service providers. 
+
+By letting everyone to have their "5 minutes of fame", but also playfully reminding of the traces and constraints the license terms levy upon us, EXPOSURE brings the online discourse to physical space in the form of a poster series. In parallel, another technological development, the omnipresent cameraphone has created the "little brother", who is relentlessly prying on the unexpected moment of embarrasment or shock. EXPOSURE's motion sensing flash lights relate to this "everyman paparazzi".
+
+-
+keywords: art installation, interactive
+-
+exposure: 
+<b>EXHIBITIONS</b>
+
+<a href="http://berlin.urban-interface.net/pages/artworks_jussi_de">Urban Interface | Berlin</a>, Berlin, Germany, 2007
+
+<a href="http://moravska-galerie.cz/bienale-brno/archiv/bienale-2008/seznam-ucastniku/the-richard.aspx?lang=en">23rd International Biennial of Graphic Design Brno 2008</a>, Moravian Gallery, Brno, Czech Republic, 2008

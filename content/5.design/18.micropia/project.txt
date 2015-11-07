@@ -1,0 +1,25 @@
+title: Micropia
+-
+team: with ART+COM
+-
+date: 2014
+-
+keywords: exhibition
+-
+exposure:
+-
+content: 
+
+Micropia is a unique museum that is set to inspire the general public, encouraging their interest in microorganisms and microbiology. The visual and the experiential are central, while the focus is firmly on the mostly positive relationship between microbes and humans. Micropia aims at becoming also an international platform for microbiology that brings diverse interest groups together in order to brigde the gap between science and the general public.
+
+The uniqueness of Micropia lies in its mix of living and virtual microbes. Most exhibits show living microorganisms as well as having a media extension. Film, images and text provide insight into microbe appearance and behaviour, and the diversity of the microorganism relationship with humans.
+
+Additionally, five large, pure media exhibits vividly convey microbiological knowledge. Right at the beginning of the exhibition, in the lift, a camera image zooms over the heads of visitors, closing in on the eye of one to reveal the microorganisms that commonly live on our eyelashes.
+
+Dramatic differences in size between various microscopic life forms can be seen on an almost 10 x 5 metre reactive monitor wall, on which microbes swim as though in an aquarium. In an interactive “extremophile“ panorama, visitors experience microbe life in places of extreme conditions such as radioactivity or cold. The virtual microorganisms float thanks to a special projection technique with dynamic 3D landscapes.
+
+Visitors encounter themselves and their microbes repeatedly throughout the exhibition, but perhaps most intensively with an installation where their bodies can be interactively explored: the visitor confronts a virtual ‘me’ and can explore the, on average, two-kilogram mass of microbes living in various parts of the body. The technology used is sophisticated body tracking.
+
+Alongside the microbes, the visitor is central to the exhibition — and on a number of levels: as observer, interactive agent and researcher, and as a valid object of self-exploration. The exhibition was designed by Kossmann.dejong, an Amsterdam-based exhibition design studio, in collaboration with ART+COM Studios. While Kossmann.dejong were responsible for the overall concept and scenography, ART+COM worked primarily on the conception, design and development of the media exhibits, from the very earliest sketches through to interaction design, programming and hardware design.
+
+Photos: Thijs Wolzak; Micropia, Maarten van der Wal

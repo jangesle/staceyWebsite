@@ -1,0 +1,20 @@
+title: Living Cartography
+-
+webvideo://player.vimeo.com/video/14925277
+-
+team: with ART+COM
+-
+date: 2010
+-
+content: 
+The installation is the central element of the exhibition in the eastern Visitor Centre of the Icelandic Vatnajökul National Park. A dynamic map provides information on the specific flora, fauna and geology of the region, providing visitors with a general overview and orientation.
+
+The basic floor space of the installation is a stylised 3D landscape of the terrain surrounding the volcano Snaefell. A topographical map is projected onto the polygonal space showing how the region changes through the seasons, providing a lively background to the information graphics. The scenario is rounded off with the relevant atmospheric sounds.
+
+Information on the area's vegetation, animal world and geological characteristics is provided by an interactive legend for each topic. Additional graphics and animations on various aspects can be displayed at the press of a button, for example showing reindeer paths and the distribution of rare plants. These can then be visualised directly in the 3D map, changing with the seasons.
+
+The graphics are accessible in all three legends simultaneously. The combination of these allow visitors to discover connections between the topics – for example that the nesting grounds of the whooper swan are situated in areas where special types of grass grow. Since the legends are placed around the installation, visitors stand opposite each other and are encouraged to engage in discussion.
+-
+keywords: interactive installation, sculpture
+-
+exposure:

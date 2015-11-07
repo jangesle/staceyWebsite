@@ -1,0 +1,3 @@
+title:Design
+-
+content: Design works at<a href="http://www.artcom.de/">ART+COM</a> and other collaborations or independent work.
